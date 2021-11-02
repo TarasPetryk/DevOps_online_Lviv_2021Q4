@@ -1,6 +1,7 @@
-#My adventures with git
+**My adventures with git**
 
 _Never expected that version control can be such fun_
+
 Some special fun shell
 ```
 git clone
