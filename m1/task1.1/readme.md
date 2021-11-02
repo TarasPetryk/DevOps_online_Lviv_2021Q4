@@ -10,6 +10,6 @@ git push
 ```
 
 
-![Github logo](/m1/images/git.jpg)
+![Github logo](/m1/task1.1/images/git.jpg)
 
 Devops is mix of culure, practices and tools that increases ability to deliever services and aplications.
