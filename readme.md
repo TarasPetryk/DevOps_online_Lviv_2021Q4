@@ -15,10 +15,10 @@ Devops is mix of culure, practices and tools that increases ability to deliever 
 2. CLoned Virtual Machine
 3. Created ruop of Virtual Machines
 4. Changed state for Virtual Machine
-5. Configured USB to connect to USB port ![USB](/m1/task2.1/images/USB.jpg)
-6. Configured shared folder between host and guest Virtual Machine ![Shared](/m1/task2.1/images/SharedFolder.png)
-7. Configured different network modes for Virtual Machines ![LocalOpen](/m1/task2.1/images/LocalOpen.jpg) ![LocalNo](/m1/task2.1/images/LocalNo.jpg)
-8. Worked with CLI through VBoxManage ![Vboxmanage](/m1/task2.1/images/Vboxmanage.jpg)
-9. Worked with Vagrant ![Vagrant](/m1/task2.1/images/Vagrant.jpg)
+5. Configured USB to connect to USB port ![USB](/m2/task2.1/images/USB.jpg)
+6. Configured shared folder between host and guest Virtual Machine ![Shared](/m2/task2.1/images/SharedFolder.png)
+7. Configured different network modes for Virtual Machines ![LocalOpen](/m1/task2.1/images/LocalOpen.jpg) ![LocalNo](/m2/task2.1/images/LocalNo.jpg)
+8. Worked with CLI through VBoxManage ![Vboxmanage](/m2/task2.1/images/Vboxmanage.jpg)
+9. Worked with Vagrant ![Vagrant](/m2/task2.1/images/Vagrant.jpg)
 
 ![Github logo](/m1/task1.1/images/git.jpg)
