@@ -17,7 +17,7 @@ Devops is mix of culure, practices and tools that increases ability to deliever 
 4. Changed state for Virtual Machine
 5. Configured USB to connect to USB port ![USB](/m2/task2.1/images/USB.jpg)
 6. Configured shared folder between host and guest Virtual Machine ![Shared](/m2/task2.1/images/SharedFolder.png)
-7. Configured different network modes for Virtual Machines ![LocalOpen](/m1/task2.1/images/LocalOpen.jpg) ![LocalNo](/m2/task2.1/images/LocalNo.jpg)
+7. Configured different network modes for Virtual Machines ![LocalOpen](/m2/task2.1/images/LocalOpen.jpg) ![LocalNo](/m2/task2.1/images/LocalNo.jpg)
 8. Worked with CLI through VBoxManage ![Vboxmanage](/m2/task2.1/images/Vboxmanage.jpg)
 9. Worked with Vagrant ![Vagrant](/m2/task2.1/images/Vagrant.jpg)
 
