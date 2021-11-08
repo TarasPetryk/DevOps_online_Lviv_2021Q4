@@ -21,4 +21,4 @@ Devops is mix of culure, practices and tools that increases ability to deliever 
 8. Worked with CLI through VBoxManage ![Vboxmanage](/m2/task2.1/images/Vboxmanage.jpg)
 9. Worked with Vagrant ![Vagrant](/m2/task2.1/images/Vagrant.jpg)
 
-![Github logo](/m1/task1.1/images/git.jpg)
+
