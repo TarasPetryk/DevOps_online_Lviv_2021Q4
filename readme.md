@@ -29,4 +29,4 @@ Devops is mix of culure, practices and tools that increases ability to deliever 
 3. Changed VLAN settings in Data Center and servers lost connection ![vlanbad](/m3/task3/images/vlanbad.jpg)
 4. Changed routing to RIP Routing and tested connection ![rip](/m3/task3/images/rip.jpg)
 5. Added usage of DHCP and DNS servers ![domain](/m3/task3/images/domain.jpg)
-6. Worked with Port Forwarding in additional task ![bonus3](/m3/task3/images/bonus3.jpg)
+
