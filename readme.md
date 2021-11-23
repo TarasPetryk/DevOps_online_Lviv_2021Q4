@@ -33,9 +33,9 @@ Devops is mix of culure, practices and tools that increases ability to deliever 
 ## Task 4 - Working with DataBases
 
 1. Created database with 3 tables. Constructed and executed SELECT operator with WHERE and ORDER BY ![SELECT](/m4/task4.1/images/SELECT.jpg)
-2. Executed different SQL queries, such as SAVEPOINT, RENAME, INSERT and others ![queries](/m4/task4.1/images/queries.jpg)
+2. Executed different SQL queries, such as SAVEPOINT, RENAME, INSERT and others ![queries](/m4/task4.1/images/Queries.jpg)
 3. Created users with different privileges and made a selection from main table MySQL ![Permissions](/m4/task4.1/images/Permisssions&MySQL.jpg)
-4. Made backup and restored data from it after deletion of row in a table ![restore](/m4/task4.1/images/restore.jpg
+4. Made backup and restored data from it after deletion of row in a table ![restore](/m4/task4.1/images/Restore.jpg
 5. Transfered local DB to AWS RDS ![RDS](/m4/task4.1/images/RDS.jpg
 6. Connected to RDS and executed SELECT ![RemoteSelect](/m4/task4.1/images/RemoteSelect.jpg
 7. Created local dumo from remote DB on RDS ![RemoteDump](/m4/task4.1/images/RemoteDump.jpg
